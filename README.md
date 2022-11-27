@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jasleen-kaur-bhatia-47b9aa210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasleen-kaur-bhatia-47b9aa210/" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/jasleen-kaur-bhatia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/_kaurJasleen" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/k50iqe5n0nbaavqulpqkifo5y" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
