@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Jasleen</h1>
+<h1 align="center">Hi  👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Jasleen</h1>
 <h3 align="center">A postgraduate student upskilling her skills</h3>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=jasleen-001&margin-w=15&row=1&column=7" alt="jasleen-001" />
